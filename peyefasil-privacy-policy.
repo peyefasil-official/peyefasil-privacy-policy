@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PeyeFasil Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f8ff;
+      color: #1f2937;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      padding: 35px;
+      border-radius: 14px;
+      box-shadow: 0 8px 25px rgba(0, 87, 216, 0.12);
+    }
+    h1, h2 {
+      color: #0057D8;
+    }
+    .brand {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .brand h1 {
+      margin-bottom: 5px;
+    }
+    .date {
+      color: #6b7280;
+      font-size: 14px;
+    }
+    footer {
+      text-align: center;
+      color: #6b7280;
+      margin-top: 30px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="brand">
+      <h1>PeyeFasil Privacy Policy</h1>
+      <p class="date">Last Updated: June 2026</p>
+    </div>
+
+    <p>
+      PeyeFasil respects the privacy of its users and is committed to protecting personal information.
+      This Privacy Policy explains how PeyeFasil collects, uses, stores, and protects user information.
+    </p>
+
+    <h2>Information We Collect</h2>
+    <p>PeyeFasil may collect the following information:</p>
+    <ul>
+      <li>Full name</li>
+      <li>Phone number</li>
+      <li>Profile information</li>
+      <li>Selfie photographs</li>
+      <li>Identification documents submitted for verification</li>
+      <li>Transaction history</li>
+      <li>Technical information required for app functionality</li>
+    </ul>
+
+    <h2>How We Use Information</h2>
+    <p>We use collected information to:</p>
+    <ul>
+      <li>Create and manage user accounts</li>
+      <li>Verify user identity</li>
+      <li>Process deposits, withdrawals, and transfers</li>
+      <li>Improve security and prevent fraud</li>
+      <li>Provide customer support</li>
+      <li>Comply with applicable legal and regulatory requirements</li>
+    </ul>
+
+    <h2>Identity Verification</h2>
+    <p>
+      Users may be required to submit a selfie and identification document to verify their identity.
+      These documents are used only for account verification, fraud prevention, and security purposes.
+    </p>
+
+    <h2>Transaction Data</h2>
+    <p>
+      PeyeFasil may store transaction history, including deposits, withdrawals, transfers, timestamps,
+      and transaction status. This information is used to provide account history and support platform security.
+    </p>
+
+    <h2>Data Security</h2>
+    <p>
+      PeyeFasil uses reasonable technical and organizational measures to protect user information against
+      unauthorized access, disclosure, alteration, or destruction.
+    </p>
+
+    <h2>Data Sharing</h2>
+    <p>
+      PeyeFasil does not sell user personal information. Information may be shared only when necessary to:
+    </p>
+    <ul>
+      <li>Provide requested services</li>
+      <li>Comply with legal obligations</li>
+      <li>Protect the security and integrity of the platform</li>
+      <li>Prevent fraud or unauthorized activity</li>
+    </ul>
+
+    <h2>User Rights</h2>
+    <p>
+      Users may contact PeyeFasil to request access, correction, or deletion of their personal information,
+      subject to legal, security, and operational requirements.
+    </p>
+
+    <h2>Children’s Privacy</h2>
+    <p>
+      PeyeFasil is not intended for children under the age of 13. We do not knowingly collect personal
+      information from children under 13.
+    </p>
+
+    <h2>Business Location</h2>
+    <p>
+      PeyeFasil is a business primarily based in Haiti, with members of administration who may operate from
+      the United States.
+    </p>
+
+    <h2>Changes to This Policy</h2>
+    <p>
+      PeyeFasil may update this Privacy Policy from time to time. Updated versions will be published on this page.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>
+      For questions about this Privacy Policy, please contact us at:
+      <br />
+      <strong>Email:</strong> peyefasil@gmail.com
+    </p>
+
+    <footer>
+      © 2026 PeyeFasil. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
